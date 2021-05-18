@@ -1,0 +1,116 @@
+.montana {
+  position: relative;
+  top: 20rem;
+  left: 0px;
+}
+
+.suelo {
+  position: relative;
+  margin-top: -13rem;
+}
+
+.Arbol{
+
+  clip-path: polygon(35% 25%, 49% 8%, 50% 8%, 65% 25%, 90% 50%, 65% 50%, 65% 100%, 35% 100%, 35% 50%, 10% 50%);
+    position: relative;
+    top: -22rem;
+    right:6rem;
+}
+
+
+.rectangulo{
+  position: relative;
+  top: -15rem;
+  right:-50rem;
+    width: 150px; 
+    height: 50px; 
+    transform: rotate(90deg);
+    border: 3px solid rgb(255, 255, 255);
+    background: #ffffff;
+    
+}
+
+.rectangulo_1{
+  position: relative;
+  top: -15rem;
+  right:-50rem;
+    width: 150px; 
+    height: 50px; 
+    transform: rotate(90deg);
+    border: 3px solid rgb(255, 255, 255);
+    background: #ffffff;
+    
+}
+
+.rectangulo_2{
+  position: relative;
+  top: -20rem;
+  right:-70rem;
+    width: 150px; 
+    height: 50px; 
+    transform: rotate(90deg);
+    border: 3px solid rgb(255, 255, 255);
+    background: #ffffff;
+    
+}
+
+.cono {
+  position: relative;
+  top: -31rem;
+  right:-70.5rem;
+  transform: rotate(180deg);
+  width: 1px;
+  height: 1px;
+  border-right: 70px solid transparent;
+  border-left: 70px solid transparent;
+  border-top: 100px solid #ffffff;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.cono_2 {
+  position: relative;
+  top: -35rem;
+  right:-50.5rem;
+  transform: rotate(180deg);
+  width: 1px;
+  height: 1px;
+  border-right: 70px solid transparent;
+  border-left: 70px solid transparent;
+  border-top: 100px solid #ffffff;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.cono_3 {
+  position: relative;
+  top: -45rem;
+  right:-70.5rem;
+  transform: rotate(180deg);
+  width: 1px;
+  height: 1px;
+  border-right: 70px solid transparent;
+  border-left: 70px solid transparent;
+  border-top: 100px solid #ffffff;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.cono_4 {
+  position: relative;
+  top: -50rem;
+  right:-50.5rem;
+  transform: rotate(180deg);
+  width: 1px;
+  height: 1px;
+  border-right: 70px solid transparent;
+  border-left: 70px solid transparent;
+  border-top: 100px solid #ffffff;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
